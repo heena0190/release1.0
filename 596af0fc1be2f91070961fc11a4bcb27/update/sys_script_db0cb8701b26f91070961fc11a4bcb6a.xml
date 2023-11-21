@@ -33,7 +33,7 @@
 
 	// Add your code here
 	//sai lines
-	
+	//test code
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -42,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>db0cb8701b26f91070961fc11a4bcb6a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Example rule on incident</sys_name>
         <sys_overrides/>
         <sys_package display_value="Release1.0" source="596af0fc1be2f91070961fc11a4bcb27">596af0fc1be2f91070961fc11a4bcb27</sys_package>
@@ -50,7 +50,7 @@
         <sys_scope display_value="Release1.0">596af0fc1be2f91070961fc11a4bcb27</sys_scope>
         <sys_update_name>sys_script_db0cb8701b26f91070961fc11a4bcb6a</sys_update_name>
         <sys_updated_by>sai.p.siripuram</sys_updated_by>
-        <sys_updated_on>2023-11-14 15:13:44</sys_updated_on>
+        <sys_updated_on>2023-11-21 18:48:41</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
